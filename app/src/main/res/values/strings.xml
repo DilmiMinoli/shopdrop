@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ShopDrop</string>
+    <string name="Msg1">Find, Discover, Choose ans Buy anything online</string>
+    <string name="Logo_desc">App Logo</string>
+    <string name="join_now_btn">Join Now</string>
+    <string name="Login_btn">Already have an Account? Login</string>
+    <string name="login_Logo_desc">Login App Logo</string>
+    <string name="username_hint">User Name</string>
+    <string name="password_hint">Password</string>
+    <string name="checkBox">Remember Me</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_home_">Home_Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_to_cart_button">Add To Cart</string>
+    <string name="total_price">Total Price=</string>
+    <string name="next">Next</string>
+    <string name="shipping">Please write your Shipment Details </string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
